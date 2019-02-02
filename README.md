@@ -6,4 +6,5 @@
 # 分支及相关文档
 ## Spring基础
 - [Spring探索（一）-- 基于控制反转的容器（IoC）](https://www.jianshu.com/p/14f8e329bd03)
+- [Spring探索（二）--配置Bean](https://www.jianshu.com/p/197eb78faf54)
 
