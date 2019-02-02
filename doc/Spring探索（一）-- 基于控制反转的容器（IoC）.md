@@ -1,6 +1,8 @@
 # Spring探索（一）-- 基于控制反转的容器（IoC）
 项目的搭建就像是积木的拼接----对象好比是零散的积木组件，而一个完整的项目就是将这些组件合理地组合到一起的成品。在基于Spring的项目中，Spring通过**容器**来管理项目中的对象，这些对象称之为**bean**。
 
+> 本文相关代码参看[GitHub](https://github.com/weilianglei/spring-demo/tree/add_spring_core_framwork)
+
 ## bean
 在java中有`JavaBean`的概念，简单地说就是只有类字段和**getter**、**setter**等方法的简单的类。而在spring中，bean的定义更为广义，下面给出官方文档的定义
 
